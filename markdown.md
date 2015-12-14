@@ -427,13 +427,13 @@ blockquote要素として扱われます。"
 
 **code**
 
-    ![Firefox]
-    [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
+    ![bench]
+    [bench]: https://raw.githubusercontent.com/a1yama/gazo/master/21946875_319687482_1large.jpg  "ベンチ"
 
 **表示**
 
-![Firefox]
-[Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
+![bench]
+[bench]: https://raw.githubusercontent.com/a1yama/gazo/master/21946875_319687482_1large.jpg  "ベンチ"
 
 ##<a name="10">水平線
 
